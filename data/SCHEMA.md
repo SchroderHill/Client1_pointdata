@@ -102,12 +102,21 @@ fs.createReadStream('data/points.csv')
 
 ### Reading JSON in JavaScript/Node.js
 ```javascript
-const fs = require('fs');
+const fs = require('fs').promises;
 
-const data = JSON.parse(fs.readFileSync('data/points.json', 'utf8'));
-data.points.forEach(point => {
-  console.log(`Point ${point.id}: ${point.name} at (${point.latitude}, ${point.longitude})`);
-});
+// Async/await approach (recommended for non-blocking I/O)
+async function readPoints() {
+  const data = JSON.parse(await fs.readFile('data/points.json', 'utf8'));
+  data.points.forEach(point => {
+    console.log(`Point ${point.id}: ${point.name} at (${point.latitude}, ${point.longitude})`);
+  });
+}
+
+readPoints().catch(console.error);
+
+// Synchronous approach (suitable for CLI tools or initialization scripts)
+// const fs = require('fs');
+// const data = JSON.parse(fs.readFileSync('data/points.json', 'utf8'));
 ```
 
 ## Data Validation

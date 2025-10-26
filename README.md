@@ -33,7 +33,7 @@ Each point includes:
 ```
 ID: 1
 Name: Point_A
-Location: 40.7128°N, 74.0060°W
+Location: 40.7128, -74.0060
 Elevation: 10.5m
 Category: primary
 ```
