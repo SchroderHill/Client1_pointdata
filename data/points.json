@@ -1,0 +1,109 @@
+{
+  "client": "Client 1",
+  "dataset": "Point Data Collection",
+  "version": "1.0",
+  "generated": "2025-01-15",
+  "coordinate_system": "WGS84",
+  "points": [
+    {
+      "id": 1,
+      "name": "Point_A",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "elevation": 10.5,
+      "timestamp": "2025-01-15T10:30:00Z",
+      "category": "primary",
+      "description": "Reference point in downtown area"
+    },
+    {
+      "id": 2,
+      "name": "Point_B",
+      "latitude": 40.7589,
+      "longitude": -73.9851,
+      "elevation": 45.2,
+      "timestamp": "2025-01-15T11:00:00Z",
+      "category": "secondary",
+      "description": "Observation point near central park"
+    },
+    {
+      "id": 3,
+      "name": "Point_C",
+      "latitude": 40.7306,
+      "longitude": -73.9352,
+      "elevation": 15.8,
+      "timestamp": "2025-01-15T11:30:00Z",
+      "category": "primary",
+      "description": "Monitoring station in Queens"
+    },
+    {
+      "id": 4,
+      "name": "Point_D",
+      "latitude": 40.6782,
+      "longitude": -73.9442,
+      "elevation": 8.3,
+      "timestamp": "2025-01-15T12:00:00Z",
+      "category": "tertiary",
+      "description": "Control point in Brooklyn"
+    },
+    {
+      "id": 5,
+      "name": "Point_E",
+      "latitude": 40.7489,
+      "longitude": -73.9680,
+      "elevation": 22.1,
+      "timestamp": "2025-01-15T12:30:00Z",
+      "category": "secondary",
+      "description": "Collection point midtown"
+    },
+    {
+      "id": 6,
+      "name": "Point_F",
+      "latitude": 40.7614,
+      "longitude": -73.9776,
+      "elevation": 35.6,
+      "timestamp": "2025-01-15T13:00:00Z",
+      "category": "primary",
+      "description": "Survey point upper west"
+    },
+    {
+      "id": 7,
+      "name": "Point_G",
+      "latitude": 40.7549,
+      "longitude": -73.9840,
+      "elevation": 18.9,
+      "timestamp": "2025-01-15T13:30:00Z",
+      "category": "secondary",
+      "description": "Measurement point theater district"
+    },
+    {
+      "id": 8,
+      "name": "Point_H",
+      "latitude": 40.7282,
+      "longitude": -74.0776,
+      "elevation": 5.2,
+      "timestamp": "2025-01-15T14:00:00Z",
+      "category": "tertiary",
+      "description": "Marker point waterfront"
+    },
+    {
+      "id": 9,
+      "name": "Point_I",
+      "latitude": 40.7580,
+      "longitude": -73.9855,
+      "elevation": 41.3,
+      "timestamp": "2025-01-15T14:30:00Z",
+      "category": "primary",
+      "description": "Data point central location"
+    },
+    {
+      "id": 10,
+      "name": "Point_J",
+      "latitude": 40.7505,
+      "longitude": -73.9934,
+      "elevation": 28.7,
+      "timestamp": "2025-01-15T15:00:00Z",
+      "category": "secondary",
+      "description": "Checkpoint near times square"
+    }
+  ]
+}

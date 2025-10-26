@@ -1,0 +1,11 @@
+id,name,latitude,longitude,elevation,timestamp,category,description
+1,Point_A,40.7128,-74.0060,10.5,2025-01-15T10:30:00Z,primary,Reference point in downtown area
+2,Point_B,40.7589,-73.9851,45.2,2025-01-15T11:00:00Z,secondary,Observation point near central park
+3,Point_C,40.7306,-73.9352,15.8,2025-01-15T11:30:00Z,primary,Monitoring station in Queens
+4,Point_D,40.6782,-73.9442,8.3,2025-01-15T12:00:00Z,tertiary,Control point in Brooklyn
+5,Point_E,40.7489,-73.9680,22.1,2025-01-15T12:30:00Z,secondary,Collection point midtown
+6,Point_F,40.7614,-73.9776,35.6,2025-01-15T13:00:00Z,primary,Survey point upper west
+7,Point_G,40.7549,-73.9840,18.9,2025-01-15T13:30:00Z,secondary,Measurement point theater district
+8,Point_H,40.7282,-74.0776,5.2,2025-01-15T14:00:00Z,tertiary,Marker point waterfront
+9,Point_I,40.7580,-73.9855,41.3,2025-01-15T14:30:00Z,primary,Data point central location
+10,Point_J,40.7505,-73.9934,28.7,2025-01-15T15:00:00Z,secondary,Checkpoint near times square
