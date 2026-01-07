@@ -9,8 +9,8 @@
 { "type": "Feature", "properties": { "id": 4, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.788350034966754, -41.341945119975918 ] } },
 { "type": "Feature", "properties": { "id": 5, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.795278431140787, -41.339289361450852 ] } },
 { "type": "Feature", "properties": { "id": 6, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.795507494110126, -41.341955143563325 ] } },
+{ "type": "Feature", "properties": { "id": 13, "priority": "high", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.603411873161548, -41.516810944818481 ] } },
 { "type": "Feature", "properties": { "id": 11, "priority": "medium", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.601874630878655, -41.517205040444182 ] } },
-{ "type": "Feature", "properties": { "id": 12, "priority": "high", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.605395993267365, -41.517958637934484 ] } },
-{ "type": "Feature", "properties": { "id": 12, "priority": "high", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.603411873161548, -41.516810944818481 ] } }
+{ "type": "Feature", "properties": { "id": 12, "priority": "high", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.605395993267365, -41.517958637934484 ] } }
 ]
 }
