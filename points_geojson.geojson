@@ -3,14 +3,11 @@
 "name": "points_geojson",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.792635704560809, -41.345116520274395 ] } },
-{ "type": "Feature", "properties": { "id": 2, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.789718097287874, -41.341254080613496 ] } },
-{ "type": "Feature", "properties": { "id": 3, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.79591732051216, -41.343315629533642 ] } },
-{ "type": "Feature", "properties": { "id": 4, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.788350034966754, -41.341945119975918 ] } },
-{ "type": "Feature", "properties": { "id": 5, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.795278431140787, -41.339289361450852 ] } },
-{ "type": "Feature", "properties": { "id": 6, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.795507494110126, -41.341955143563325 ] } },
-{ "type": "Feature", "properties": { "id": 13, "priority": "high", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.603411873161548, -41.516810944818481 ] } },
-{ "type": "Feature", "properties": { "id": 11, "priority": "medium", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.601874630878655, -41.517205040444182 ] } },
-{ "type": "Feature", "properties": { "id": 12, "priority": "high", "client": "mrfl", "forest": "hadley", "date_created": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.605395993267365, -41.517958637934484 ] } }
+{ "type": "Feature", "properties": { "id": 6, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_creat": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.795125699884835, -41.341419562939826 ] } },
+{ "type": "Feature", "properties": { "id": 7, "priority": "high", "client": "mrfl", "forest": "plunkett", "date_creat": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.788319767795798, -41.349343401181734 ] } },
+{ "type": "Feature", "properties": { "id": 1, "priority": "high", "client": "mrfl", "forest": "hadley", "date_creat": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.604218313395734, -41.51698768838363 ] } },
+{ "type": "Feature", "properties": { "id": 4, "priority": "high", "client": "mrfl", "forest": "hadley", "date_creat": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.612435814025446, -41.513418907391895 ] } },
+{ "type": "Feature", "properties": { "id": 3, "priority": "high", "client": "mrfl", "forest": "hadley", "date_creat": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.610095529611101, -41.513933124539285 ] } },
+{ "type": "Feature", "properties": { "id": 2, "priority": "high", "client": "mrfl", "forest": "hadley", "date_creat": null, "loacation": null, "status": null }, "geometry": { "type": "Point", "coordinates": [ 173.606351576709699, -41.51536819717218 ] } }
 ]
 }
